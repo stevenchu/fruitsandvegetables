@@ -11,11 +11,13 @@
 html{overflow-y:scroll}
 
 body {
-  background: #ffe000;
+  background: #ffe000; /*url('images/FNV_SPLASH.jpg')*/
+  background-size:cover;
   color: black;
   font-family: 'Roboto', sans-serif;
   font-size: 12px;
   overflow:hidden;
+
 }
 
 img {
