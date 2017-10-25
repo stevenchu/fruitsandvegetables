@@ -8,13 +8,19 @@
   margin: 0;
 }
 
-$color: #00ff8f;
-$color-opaque: rgba(0, 255, 143, 0.77);
+$color: #6A82FB;
+$color-opaque: rgba($color, 0.77);
+
+iframe .lineup img {
+  max-width: 400px;
+}
 
 html{overflow-y:scroll}
 
 body {
   background: $color; /*url('images/FNV_SPLASH.jpg')*/
+  background: -webkit-linear-gradient(to bottom, #6A82FB, #FC5C7D);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #6A82FB, #FC5C7D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   background-size:cover;
   color: black;
   font-family: 'Roboto', sans-serif;
