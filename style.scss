@@ -8,8 +8,18 @@
   margin: 0;
 }
 
-$color: #6A82FB;
+/* VARIABLES */
+
+$color: #ffff97;
 $color-opaque: rgba($color, 0.77);
+$color-secondary: #66ee1a;
+
+/* PAST */
+$color-003: #6A82FB;
+$color-003-opaque: rgba($color-003, 0.77);
+$color-003-secondary: #FC5C7D;
+
+/* * * * * */
 
 iframe .lineup img {
   max-width: 400px;
@@ -18,15 +28,23 @@ iframe .lineup img {
 html{overflow-y:scroll}
 
 body {
-  background: $color; /*url('images/FNV_SPLASH.jpg')*/
-  background: -webkit-linear-gradient(to bottom, #6A82FB, #FC5C7D);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to bottom, #6A82FB, #FC5C7D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   background-size:cover;
   color: black;
   font-family: 'Roboto', sans-serif;
   font-size: 12px;
   overflow:hidden;
+}
 
+body#FNV004 {
+  background: $color; /*url('images/FNV_SPLASH.jpg')*/
+  background: -webkit-linear-gradient(to bottom, $color, $color-secondary);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, $color, $color-secondary);
+}
+
+body#FNV003 {
+  background: $color; /*url('images/FNV_SPLASH.jpg')*/
+  background: -webkit-linear-gradient(to bottom, $color-003, $color-003-secondary);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, $color-003, $color-003-secondary); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 img {
