@@ -10,14 +10,28 @@
 
 /* VARIABLES */
 
-$color: #ffff97;
-$color-opaque: rgba($color, 0.77);
-$color-secondary: #66ee1a;
 
 /* PAST */
+$color-0127: #ffff97;
+$color-0127-opaque: rgba($color-0127, 0.77);
+$color-0127-secondary: #f7ba79;
+
+$color-004: #ffff97;
+$color-004-opaque: rgba($color-004, 0.77);
+$color-004-secondary: #66ee1a;
+
 $color-003: #6A82FB;
 $color-003-opaque: rgba($color-003, 0.77);
 $color-003-secondary: #FC5C7D;
+
+/* * * * * */
+/* CURRENT */
+/* * * * * */
+
+$color: $color-0127;
+$color-opaque: $color-0127-opaque;
+$color-secondary: $color-0127-secondary;
+
 
 /* * * * * */
 
@@ -35,10 +49,16 @@ body {
   overflow:hidden;
 }
 
-body#FNV004 {
-  background: $color; /*url('images/FNV_SPLASH.jpg')*/
-  background: -webkit-linear-gradient(to bottom, $color, $color-secondary);  /* Chrome 10-25, Safari 5.1-6 */
+body#FNV0127 {
+  background: $color;
+  background: -webkit-linear-gradient(to bottom, $color, $color-secondary);  
   background: linear-gradient(to bottom, $color, $color-secondary);
+}
+
+body#FNV004 {
+  background: $color-004; /*url('images/FNV_SPLASH.jpg')*/
+  background: -webkit-linear-gradient(to bottom, $color-004, $color-004-secondary);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, $color-004, $color-004-secondary);
 }
 
 body#FNV003 {
