@@ -12,6 +12,11 @@
 
 
 /* PAST */
+
+$color-0331: #bb2fac;
+$color-0331-opaque: rgba($color-0331, 0.77);
+$color-0331-secondary: #c3adc1;
+
 $color-0127: #ffff97;
 $color-0127-opaque: rgba($color-0127, 0.77);
 $color-0127-secondary: #f7ba79;
@@ -28,9 +33,9 @@ $color-003-secondary: #FC5C7D;
 /* CURRENT */
 /* * * * * */
 
-$color: $color-0127;
-$color-opaque: $color-0127-opaque;
-$color-secondary: $color-0127-secondary;
+$color: $color-0331;
+$color-opaque: $color-0331-opaque;
+$color-secondary: $color-0331-secondary;
 
 
 /* * * * * */
@@ -47,9 +52,7 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 12px;
   overflow:hidden;
-}
 
-body#FNV0127 {
   background: $color;
   background: -webkit-linear-gradient(to bottom, $color, $color-secondary);  
   background: linear-gradient(to bottom, $color, $color-secondary);
