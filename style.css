@@ -1853,31 +1853,31 @@ input:checked + .side-label:after {
   .cube:nth-child(1) {
     -webkit-transform: translate(-15em, -7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-15em, -7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_03_strawberry.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_01_kiwi.png"); }
   .cube:nth-child(2) {
     -webkit-transform: translate(-10em, -7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-10em, -7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_07_pomegranate.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_02_orange.png"); }
   .cube:nth-child(3) {
     -webkit-transform: translate(-5em, -7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-5em, -7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_05_peach.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_07_pomegranate.png"); }
   .cube:nth-child(4) {
     -webkit-transform: translate(0em, -7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(0em, -7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_05_peach.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_01_kiwi.png"); }
   .cube:nth-child(5) {
     -webkit-transform: translate(5em, -7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(5em, -7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_01_kiwi.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_02_orange.png"); }
   .cube:nth-child(6) {
     -webkit-transform: translate(10em, -7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(10em, -7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_03_strawberry.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_02_orange.png"); }
   .cube:nth-child(7) {
     -webkit-transform: translate(15em, -7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(15em, -7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_06_watermelon.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_02_orange.png"); }
   .cube:nth-child(8) {
     -webkit-transform: translate(-15em, -2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-15em, -2.5em) rotateX(45deg) rotate(45deg);
@@ -1885,83 +1885,83 @@ input:checked + .side-label:after {
   .cube:nth-child(9) {
     -webkit-transform: translate(-10em, -2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-10em, -2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_05_peach.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_07_pomegranate.png"); }
   .cube:nth-child(10) {
     -webkit-transform: translate(-5em, -2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-5em, -2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_04_fig.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_07_pomegranate.png"); }
   .cube:nth-child(11) {
     -webkit-transform: translate(0em, -2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(0em, -2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_01_kiwi.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_04_fig.png"); }
   .cube:nth-child(12) {
     -webkit-transform: translate(5em, -2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(5em, -2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_03_strawberry.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_07_pomegranate.png"); }
   .cube:nth-child(13) {
     -webkit-transform: translate(10em, -2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(10em, -2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_04_fig.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_05_peach.png"); }
   .cube:nth-child(14) {
     -webkit-transform: translate(15em, -2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(15em, -2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_02_orange.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_03_strawberry.png"); }
   .cube:nth-child(15) {
     -webkit-transform: translate(-15em, 2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-15em, 2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_07_pomegranate.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_05_peach.png"); }
   .cube:nth-child(16) {
     -webkit-transform: translate(-10em, 2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-10em, 2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_07_pomegranate.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_01_kiwi.png"); }
   .cube:nth-child(17) {
     -webkit-transform: translate(-5em, 2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-5em, 2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_01_kiwi.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_03_strawberry.png"); }
   .cube:nth-child(18) {
     -webkit-transform: translate(0em, 2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(0em, 2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_03_strawberry.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_07_pomegranate.png"); }
   .cube:nth-child(19) {
     -webkit-transform: translate(5em, 2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(5em, 2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_01_kiwi.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_04_fig.png"); }
   .cube:nth-child(20) {
     -webkit-transform: translate(10em, 2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(10em, 2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_02_orange.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_04_fig.png"); }
   .cube:nth-child(21) {
     -webkit-transform: translate(15em, 2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(15em, 2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_05_peach.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_04_fig.png"); }
   .cube:nth-child(22) {
     -webkit-transform: translate(-15em, 7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-15em, 7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_02_orange.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_03_strawberry.png"); }
   .cube:nth-child(23) {
     -webkit-transform: translate(-10em, 7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-10em, 7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_07_pomegranate.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_02_orange.png"); }
   .cube:nth-child(24) {
     -webkit-transform: translate(-5em, 7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-5em, 7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_06_watermelon.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_02_orange.png"); }
   .cube:nth-child(25) {
     -webkit-transform: translate(0em, 7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(0em, 7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_03_strawberry.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_04_fig.png"); }
   .cube:nth-child(26) {
     -webkit-transform: translate(5em, 7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(5em, 7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_02_orange.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_04_fig.png"); }
   .cube:nth-child(27) {
     -webkit-transform: translate(10em, 7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(10em, 7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_06_watermelon.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_04_fig.png"); }
   .cube:nth-child(28) {
     -webkit-transform: translate(15em, 7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(15em, 7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_02_orange.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_05_peach.png"); }
   .cube:before, .cube:after {
     position: absolute;
     width: inherit;
