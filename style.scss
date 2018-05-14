@@ -12,6 +12,9 @@
 
 
 /* PAST */
+$color-0526: #858988;
+$color-0526-opaque: rgba($color-0526, 0.77);
+$color-0526-secondary: #bfc956;
 
 $color-0428: #cad9be;
 $color-0428-opaque: rgba($color-0428, 0.77);
@@ -37,9 +40,9 @@ $color-003-secondary: #FC5C7D;
 /* CURRENT */
 /* * * * * */
 
-$color: $color-0428;
-$color-opaque: $color-0428-opaque;
-$color-secondary: $color-0428-secondary;
+$color: $color-0526;
+$color-opaque: $color-0526-opaque;
+$color-secondary: $color-0526-secondary;
 
 
 /* * * * * */
