@@ -10,8 +10,12 @@
 
 /* VARIABLES */
 
-
 /* PAST */
+
+$color-0630: #4387f1;
+$color-0630-opaque: rgba($color-0630, 0.77);
+$color-0630-secondary: #d6abbe;
+
 $color-0526: #858988;
 $color-0526-opaque: rgba($color-0526, 0.77);
 $color-0526-secondary: #bfc956;
@@ -40,9 +44,9 @@ $color-003-secondary: #FC5C7D;
 /* CURRENT */
 /* * * * * */
 
-$color: $color-0526;
-$color-opaque: $color-0526-opaque;
-$color-secondary: $color-0526-secondary;
+$color: $color-0630;
+$color-opaque: $color-0630-opaque;
+$color-secondary: $color-0630-secondary;
 
 
 /* * * * * */

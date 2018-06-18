@@ -1482,12 +1482,12 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 12px;
   overflow: hidden;
-  background: #858988;
-  background: -webkit-linear-gradient(to bottom, #858988, #bfc956);
-  background: -webkit-gradient(linear, left top, left bottom, from(#858988), to(#bfc956));
-  background: -webkit-linear-gradient(top, #858988, #bfc956);
-  background: -o-linear-gradient(top, #858988, #bfc956);
-  background: linear-gradient(to bottom, #858988, #bfc956); }
+  background: #4387f1;
+  background: -webkit-linear-gradient(to bottom, #4387f1, #d6abbe);
+  background: -webkit-gradient(linear, left top, left bottom, from(#4387f1), to(#d6abbe));
+  background: -webkit-linear-gradient(top, #4387f1, #d6abbe);
+  background: -o-linear-gradient(top, #4387f1, #d6abbe);
+  background: linear-gradient(to bottom, #4387f1, #d6abbe); }
 
 body#FNV004 {
   background: #ffff97;
@@ -1500,7 +1500,7 @@ body#FNV004 {
   background: linear-gradient(to bottom, #ffff97, #66ee1a); }
 
 body#FNV003 {
-  background: #858988;
+  background: #4387f1;
   /*url('images/FNV_SPLASH.jpg')*/
   background: -webkit-linear-gradient(to bottom, #6A82FB, #FC5C7D);
   /* Chrome 10-25, Safari 5.1-6 */
@@ -1549,7 +1549,7 @@ iframe .lineup > img {
   #mc-embedded-subscribe-form {
     margin: 100px 0 !important; }
     #mc-embedded-subscribe-form h3 {
-      background: #858988; }
+      background: #4387f1; }
   iframe {
     height: 1200px !important; } }
 
@@ -1561,14 +1561,14 @@ iframe .lineup > img {
   #mc-embedded-subscribe-form {
     margin: 100px 0 !important; }
     #mc-embedded-subscribe-form h3 {
-      background: rgba(133, 137, 136, 0.77); } }
+      background: rgba(67, 135, 241, 0.77); } }
 
 #mc-embedded-subscribe-form {
   border: 2px solid black;
   min-width: 300px;
   margin: 40px auto;
   position: relative;
-  background: rgba(133, 137, 136, 0.77);
+  background: rgba(67, 135, 241, 0.77);
   text-align: center; }
   #mc-embedded-subscribe-form h3 {
     display: inline-block;
@@ -1768,7 +1768,7 @@ input:checked + .side-label:after {
   color: black;
   -webkit-appearance: none;
   border: 2px solid black;
-  background-color: #858988;
+  background-color: #4387f1;
   padding: 10px 20px;
   font-size: 15px;
   text-transform: uppercase;
@@ -1853,19 +1853,19 @@ input:checked + .side-label:after {
   .cube:nth-child(1) {
     -webkit-transform: translate(-15em, -7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-15em, -7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_05_peach.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_07_pomegranate.png"); }
   .cube:nth-child(2) {
     -webkit-transform: translate(-10em, -7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-10em, -7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_04_fig.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_07_pomegranate.png"); }
   .cube:nth-child(3) {
     -webkit-transform: translate(-5em, -7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-5em, -7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_02_orange.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_04_fig.png"); }
   .cube:nth-child(4) {
     -webkit-transform: translate(0em, -7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(0em, -7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_01_kiwi.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_03_strawberry.png"); }
   .cube:nth-child(5) {
     -webkit-transform: translate(5em, -7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(5em, -7.5em) rotateX(45deg) rotate(45deg);
@@ -1873,47 +1873,47 @@ input:checked + .side-label:after {
   .cube:nth-child(6) {
     -webkit-transform: translate(10em, -7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(10em, -7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_02_orange.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_06_watermelon.png"); }
   .cube:nth-child(7) {
     -webkit-transform: translate(15em, -7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(15em, -7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_07_pomegranate.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_04_fig.png"); }
   .cube:nth-child(8) {
     -webkit-transform: translate(-15em, -2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-15em, -2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_01_kiwi.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_02_orange.png"); }
   .cube:nth-child(9) {
     -webkit-transform: translate(-10em, -2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-10em, -2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_01_kiwi.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_03_strawberry.png"); }
   .cube:nth-child(10) {
     -webkit-transform: translate(-5em, -2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-5em, -2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_01_kiwi.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_04_fig.png"); }
   .cube:nth-child(11) {
     -webkit-transform: translate(0em, -2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(0em, -2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_07_pomegranate.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_01_kiwi.png"); }
   .cube:nth-child(12) {
     -webkit-transform: translate(5em, -2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(5em, -2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_04_fig.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_07_pomegranate.png"); }
   .cube:nth-child(13) {
     -webkit-transform: translate(10em, -2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(10em, -2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_06_watermelon.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_01_kiwi.png"); }
   .cube:nth-child(14) {
     -webkit-transform: translate(15em, -2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(15em, -2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_02_orange.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_06_watermelon.png"); }
   .cube:nth-child(15) {
     -webkit-transform: translate(-15em, 2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-15em, 2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_02_orange.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_07_pomegranate.png"); }
   .cube:nth-child(16) {
     -webkit-transform: translate(-10em, 2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-10em, 2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_01_kiwi.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_05_peach.png"); }
   .cube:nth-child(17) {
     -webkit-transform: translate(-5em, 2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-5em, 2.5em) rotateX(45deg) rotate(45deg);
@@ -1921,39 +1921,39 @@ input:checked + .side-label:after {
   .cube:nth-child(18) {
     -webkit-transform: translate(0em, 2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(0em, 2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_06_watermelon.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_03_strawberry.png"); }
   .cube:nth-child(19) {
     -webkit-transform: translate(5em, 2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(5em, 2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_05_peach.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_04_fig.png"); }
   .cube:nth-child(20) {
     -webkit-transform: translate(10em, 2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(10em, 2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_06_watermelon.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_01_kiwi.png"); }
   .cube:nth-child(21) {
     -webkit-transform: translate(15em, 2.5em) rotateX(45deg) rotate(45deg);
     transform: translate(15em, 2.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_06_watermelon.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_01_kiwi.png"); }
   .cube:nth-child(22) {
     -webkit-transform: translate(-15em, 7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-15em, 7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_03_strawberry.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_07_pomegranate.png"); }
   .cube:nth-child(23) {
     -webkit-transform: translate(-10em, 7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-10em, 7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_06_watermelon.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_02_orange.png"); }
   .cube:nth-child(24) {
     -webkit-transform: translate(-5em, 7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(-5em, 7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_01_kiwi.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_02_orange.png"); }
   .cube:nth-child(25) {
     -webkit-transform: translate(0em, 7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(0em, 7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_07_pomegranate.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_04_fig.png"); }
   .cube:nth-child(26) {
     -webkit-transform: translate(5em, 7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(5em, 7.5em) rotateX(45deg) rotate(45deg);
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_06_watermelon.png"); }
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/fruit_03_strawberry.png"); }
   .cube:nth-child(27) {
     -webkit-transform: translate(10em, 7.5em) rotateX(45deg) rotate(45deg);
     transform: translate(10em, 7.5em) rotateX(45deg) rotate(45deg);
