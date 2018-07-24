@@ -12,6 +12,10 @@
 
 /* PAST */
 
+$color-0727: #83d8ac;
+$color-0727-opaque: rgba($color-0727, 0.77);
+$color-0727-secondary: #f030ae;
+
 $color-0630: #4387f1;
 $color-0630-opaque: rgba($color-0630, 0.77);
 $color-0630-secondary: #d6abbe;
@@ -44,9 +48,9 @@ $color-003-secondary: #FC5C7D;
 /* CURRENT */
 /* * * * * */
 
-$color: $color-0630;
-$color-opaque: $color-0630-opaque;
-$color-secondary: $color-0630-secondary;
+$color: $color-0727;
+$color-opaque: $color-0727-opaque;
+$color-secondary: $color-0727-secondary;
 
 
 /* * * * * */
